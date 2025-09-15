@@ -1,6 +1,4 @@
-# ML
 My own collection of Google Collab notebooks exploring and implementing core Machine Learning concepts.
-📌 Overview
 
 This repository contains the Google Colab notebooks I created while learning and exploring various concepts in Machine Learning. Each notebook includes explanations, examples, and implementations to make the concepts easier to understand and apply.
 
